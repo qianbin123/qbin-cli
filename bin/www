@@ -1,0 +1,5 @@
+#! /usr/bin/env node
+// 这个文件作为一个可执行文件存在，其中第一行主要指定用户目录下的node环境
+
+require('../src/main.js');
+
